@@ -1,14 +1,17 @@
+/*universal selector , applies to the entire document*/
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
+/* applying primary fonts to the document */
 body {
   background-color: #d9dcd6;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
+/*css property to the header html element */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -48,10 +51,7 @@ a {
   text-decoration: none;
 }
 
-p {
-  font-size: 16px;
-}
-
+/*css propery to the img tag with hero class*/
 .hero {
   height: 800px;
   width: 100%;
@@ -60,6 +60,8 @@ p {
   background-size: cover;
   background-position: center;
 }
+
+/*main tag in the html document */
 main {
   width: 75%;
   display: inline-block;
@@ -93,6 +95,12 @@ main {
   margin-left: 25px;
 }
 
+/* for all the p tags inside the document */
+p {
+  font-size: 16px;
+}
+
+/*aside tag in the html document*/
 aside {
   margin-right: 20px;
   padding: 20px;
@@ -120,6 +128,7 @@ aside {
   max-width: 150px;
 }
 
+/*footer of the document*/
 footer {
   padding: 30px;
   clear: both;
