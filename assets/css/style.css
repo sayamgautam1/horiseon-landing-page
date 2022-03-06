@@ -56,9 +56,12 @@ a {
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
-  /*background-image: url("../images/digital-marketing-meeting.jpg");*/
+  object-fit: cover;
+
+  /*commented all background img properties as img was added in html
+  /* background-image: url("../images/digital-marketing-meeting.jpg");
   background-size: cover;
-  background-position: center;
+  background-position: center; */
 }
 
 /*main tag in the html document */
