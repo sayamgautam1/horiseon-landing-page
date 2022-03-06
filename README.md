@@ -1,5 +1,9 @@
 # horiseon-landing-page
 
+# Task given
+
+a marketing agency Horiseon has hired you to refactor an existing site to make it more accessible such that it is optimized for search engines.
+
 [Horison Landing Page](https://sayamgautam1.github.io/horiseon-landing-page/)
 
 # Refactoring list
