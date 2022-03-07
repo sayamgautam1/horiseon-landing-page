@@ -4,6 +4,10 @@
 
 a marketing agency Horiseon has hired you to refactor an existing site to make it more accessible such that it is optimized for search engines.
 
+# Suggested Outcome
+
+![Final Design of the document](./assets/images/entire_page.png)
+
 [Horison Landing Page](https://sayamgautam1.github.io/horiseon-landing-page/)
 
 # Refactoring list
